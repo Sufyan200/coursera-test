@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #626eb4;
+    background-color: #FFA1F5;
 }
 
 /* Large Devices */
@@ -75,11 +75,11 @@ p{
 
 }
 #box1{
-    background-color: lightcoral;
+    background-color: #BC7AF9;
 }
 #box2{
-    background-color: lightgreen;
+    background-color: #F8FF95;
 }
 #box3{
-    background-color: lightyellow;
+    background-color: #A6FF96;
 }
